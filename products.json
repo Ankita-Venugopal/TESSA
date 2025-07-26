@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Cheddar Cheese",
+    "description": "Contains dairy and lactose.",
+    "subcategory": "dairy",
+    "allergens": ["Lactose"]
+  },
+  {
+    "name": "Frozen Peas",
+    "description": "Allergen-free frozen green peas.",
+    "subcategory": "frozen",
+    "allergens": []
+  },
+  {
+    "name": "Almond Milk",
+    "description": "Nut-based milk, lactose-free.",
+    "subcategory": "dairy",
+    "allergens": ["Nuts"]
+  },
+  {
+    "name": "Potato Chips",
+    "description": "Crispy, gluten-free snack.",
+    "subcategory": "snacks",
+    "allergens": []
+  }
+]
